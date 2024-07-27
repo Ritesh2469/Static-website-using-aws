@@ -203,11 +203,9 @@
 ### Now you can access the website securely over "https".
 ![56](https://user-images.githubusercontent.com/119833411/242217926-0add7d25-7340-4801-b616-148285cf1aea.jpg)
 
-**Even you time http://learnwithsampath.world/ also it will redirect to https://learnwithsampath.world/**
 
 ## We have successfully Deployed a Static Website to AWS S3 with HTTPS using CloudFront.
 
-**Thank you for reading this post! I hope you found it helpful. If you have any feedback or questions,Please connect with me on LinkedIn at https://www.linkedin.com/in/sampathsivakumar-boddeti-1666b810b/. Your feedback is valuable to me. Thank you!**
 
 
 
